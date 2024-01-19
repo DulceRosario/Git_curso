@@ -1,12 +1,5 @@
 #para copiar una línea presionar en modo comando yy
 #para pegar una línea en modo comando presionar p
-#para borrar una línea en modo comando presionar dd 
-# para guardar y salir :x 
-
-#./procesa-covid ESTADO 
-#
-# el valor de ESTADO se enecuentra en
-# la variable $1 
 
 #set -x 
 
